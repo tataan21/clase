@@ -24,7 +24,7 @@ header{
     color:rgb(88, 195, 227);
     padding: 20px 0;
     border-radius: 8px 8px 0 0;
-    background-image: url('./img/fondo.avif');
+    background-image: url('https://bucket-quintana-shepherd.s3.us-east-1.amazonaws.com/fondo.avif');
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
